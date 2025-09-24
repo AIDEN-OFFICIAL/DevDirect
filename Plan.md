@@ -106,7 +106,7 @@ Let's start with the very beginning: the Homepage. This is the first page a user
   Button:(clicks to reveal a new section to input a domain.)
    - Add domain(s)  
    - Skills (drop down to select from) + Expertise levels (Beginner → Expert)  
-3. ID Verification (optional) (build truds twith a varified badge )
+3. ID Verification (optional) (build trust with a varified badge )
 4. CTA: Submit & Proceed to Test  
 
 #### Test Landing Page
